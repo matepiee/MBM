@@ -1,15 +1,33 @@
-#Logo {
-    border: whitesmoke;
-    position: absolute;
-    width: 100px;
-    height: 60px;
+body{
+    background-color: lightgray;
 }
 
-#Auto {
-    border: whitesmoke;
-    position: absolute;
-    left: 900px;
-    top: 900px;
-    width: 600px;
-    height: 350px;
+table,td,th{
+    border: solid 2px black;
+    width: 500px;
+    height: 100px;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+p{
+    text-indent: 20px;
+}
+
+a:hover{
+    color: red;
+}
+
+a{
+    text-decoration: none;
+}
+
+#cim{
+    text-align: center;
+}
+
+#ossz{
+    margin-right: auto;
+    margin-left: auto;
+    width: 1600px;
 }
