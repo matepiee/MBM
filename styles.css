@@ -1,0 +1,55 @@
+body{
+    background-color: lightgray;
+}
+
+table,td,th{
+    border: solid 2px black;
+    width: 500px;
+    height: 100px;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+p{
+    text-indent: 20px;
+}
+
+a:hover{
+    color: red;
+}
+
+a{
+    text-decoration: none;
+    color:black
+}
+
+#cim{
+    text-align: center;
+}
+
+#ossz{
+    margin-right: auto;
+    margin-left: auto;
+    width: 1600px;
+}
+
+#Logo {
+    border: whitesmoke;
+    position: absolute;
+    width: 200px;
+    height: 60px;
+    top: 20px;
+    left: 450px;
+}
+
+#Auto {
+    border: whitesmoke;
+    position: absolute;
+    left: 900px;
+    top: 400px;
+    width: 600px;
+    height: 350px;
+}
+img{
+  width: 250px;
+}
